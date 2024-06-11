@@ -1,16 +1,16 @@
-.Sign1 {
+.child1{
     border-radius: 10px;
     width:115px ;
     height:38px ;
     background-color:#FFD43A ;
     border: 0px;
 }
-.Sign1:hover {
+.child1:hover {
     background-color:#8CFF98 ;
 }
 
 
-.Sign2 {
+.child2 {
     border-radius: 10px;
     width:285px ;
     height:36px ;
@@ -19,12 +19,12 @@
     color:#FFFFFF ;
     margin-top: 10px;
 }
-.Sign2:hover{
+.child2:hover{
     background-color:#D3D3D3 ;
 }
 
 
-.Sign3 {
+.child3 {
     border-radius: 10px;
     width:336px ;
     height:36px ;
@@ -33,12 +33,12 @@
     color:#FFFFFF ;
     margin-top: 10px;
 }
-.Sign3:hover{
+.child3:hover{
     background-color:#FF3AE0 ;
 }
 
 
-.Sign4 {
+.child4 {
     border-radius: 10px;
     width:441px ;
     height:36px ;
@@ -47,12 +47,12 @@
     color:#000000 ;
     margin-top: 10px;
 }
-.Sign4:hover{
+.child4:hover{
     background-color:#ABABAB ;
 }
 
 
-.Sign5 {
+.child5 {
     border-radius: 10px;
     width:559px ;
     height:36px ;
@@ -65,22 +65,21 @@
     font-family:fonts;
     src: url(fonts/Inter-VariableFont_slnt\,wght.ttf);
 }
-.Sign1 {
+.child1 {
     font-family: fonts;
 }
-.Sign2 {
+.child2 {
     font-family: fonts;
 }  
-.Sign3 {
+.child3 {
     font-family: fonts;
 }
-.Sign4 {
+.child4 {
     font-family: fonts;
 }
-.Sign5 {
+.child5 {
     font-family: fonts;
 }
   
    
-
 
